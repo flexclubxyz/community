@@ -10,7 +10,7 @@
 
 <!-- PIP List -->
 <ul>
-  <li><a href="#">FIP-1: Flexclub Improvement Proposal</a></li>
+  <li><a href="https://github.com/flexclubxyz/community/discussions">FIP-1: Flexclub Improvement Proposal</a></li>
 
   <!-- Add more FIPs here -->
 </ul>
