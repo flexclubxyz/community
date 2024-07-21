@@ -2,6 +2,7 @@
 <h1 align="center">Flexclub: A Decentralized Savings App and Token</h1>
 
 <!-- Description -->
+<p align="center">Read the Litepaper: <a href="https://github.com/flexclubxyz/community/blob/main/Litepaper/Flexclub%20-%20A%20Decentralized%20Savings%20App%20and%20Token%20-%2021072024%20v0.3.pdf">flexclub.xyz</a></p>
 <p align="center">Check out the project: <a href="https://fleclub.xyz">flexclub.xyz</a></p>
 
 <!-- Subheader -->
