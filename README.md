@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Flexclub: A Decentralized Savings App and Token</h1>
 <p align="center">
-  <a href="https://flexclub.xyz"><img width="100%" alt="Flexclub" src="https://x.com/flexclubxyz/header_photo" /></a>
+  <a href="https://flexclub.xyz"><img width="100%" alt="Flexclub" src="https://ibb.co/s2SxwWr" /></a>
 </p>
 
 <!-- Description -->
