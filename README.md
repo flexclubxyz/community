@@ -11,7 +11,8 @@
 
 <!-- PIP List -->
 <ul>
-  <li><a href="https://github.com/flexclubxyz/community/discussions/2">FIP-1: Donation Based Clubs</a></li>
+  <li><a href="https://github.com/flexclubxyz/community/discussions/2">FIP-1: Donation Based Flexclubs</a></li>
+   <li><a href="https://github.com/flexclubxyz/community/discussions/">Create your FIP</a></li>
 
   <!-- Add more FIPs here -->
 </ul>
